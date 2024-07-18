@@ -1,3 +1,19 @@
+
+/*
+ 
+   Fundacion Kinal
+   Centro educativo tecnico laboral Kinal
+   Quinto perito
+   Quinto electronica
+   Codigo Tecnico: EB5AM 
+   Curso: Taller de electronica digital y reparacion de computadoras I
+   Proyecto: Matriz led
+   Dev: Hugo Alexander Reyes Veliz 
+   Fecha: 18/7/2024
+*/
+
+
+
 #include <LedControl.h> // Libreria que me permita usar el IC MAX7219 (matriz led)
 
 #define din_matrix 3 // pin3 del arduino conectado al pin DIN de la mtriz de led
